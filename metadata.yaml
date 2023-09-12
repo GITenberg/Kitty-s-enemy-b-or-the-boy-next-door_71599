@@ -1,0 +1,24 @@
+_repo: Kitty-s-enemy-b-or-the-boy-next-door_71599
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stooke, Eleanora H.
+    alias: Stooke, E. H.
+    gutenberg_agent_id: '55669'
+    url: http://www.gutenberg.org/2009/agents/55669
+description: ''
+gutenberg_issued: '2023-09-09'
+identifiers:
+  gutenberg: '71599'
+language: en
+pgterms:marc905: 20230905172713stooke
+pgterms:marc906: '1911'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bS. W. Partridge & Co., $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kitty''s enemy: : $b or, the boy next door.'
+url: http://www.gutenberg.org/ebooks/71599
